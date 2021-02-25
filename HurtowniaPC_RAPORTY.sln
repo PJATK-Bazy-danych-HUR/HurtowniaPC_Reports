@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "HurtowniaPC_RAPORTY", "HurtowniaPC_RAPORTY.rptproj", "{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.Debug|Default.ActiveCfg = Debug
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.Debug|Default.Build.0 = Debug
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.Debug|Default.Deploy.0 = Debug
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.DebugLocal|Default.Build.0 = DebugLocal
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.Release|Default.ActiveCfg = Release
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.Release|Default.Build.0 = Release
+		{F17DD60B-BCAA-4118-BCD8-D0E1BC37B916}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72237B1A-0FBF-4E97-BA9F-6F7759684BC9}
+	EndGlobalSection
+EndGlobal
